@@ -1,0 +1,9 @@
+# Inputs the user for the first and second numbers
+first-num = int(input("What is the first number? "))
+second-num = int(input("What is the second number? "))
+
+# Prints the answers to the screen
+print(first-num + second-num)
+print(first-num - second-num)
+print(first-num * second-num)
+print(first-num / second-num)
