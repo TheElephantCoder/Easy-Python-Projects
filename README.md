@@ -38,5 +38,5 @@ You can also clone this repository and open up the files in your text editor as 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TheElephantCoder/Easy-Python-Projects.git
+   https://github.com/TheElephantCoder/Easy-Python-Projects.git
 
